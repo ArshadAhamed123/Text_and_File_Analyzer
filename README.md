@@ -10,28 +10,6 @@ A Gradio-based application that leverages **Google Gemini AI** to analyze and su
 - 🔽 **Download Results**: Allows users to save analysis results as a file.
 - 🎨 **Gradio UI**: Intuitive interface for seamless interaction.
 
-## ⚙️ Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/ai-text-analyzer.git
-   cd ai-text-analyzer
-   ```
-
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Set up your Google API Key:
-   ```bash
-   export GOOGLE_API_KEY='your_api_key_here'
-   ```
-
-4. Run the application:
-   ```bash
-   python app.py
-   ```
 
 ## 📌 Requirements
 - Python 3.x
